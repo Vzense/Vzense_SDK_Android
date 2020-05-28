@@ -1,0 +1,47 @@
+2.0.19
+1.Fix a bug where FACE AE doesn't work at special angles.
+
+2.0.18
+1.Optimize depth image.
+2.Set the default color image format to RGB888.
+
+2.0.0.16
+1.Optimizing code and reducing CPU loading.
+2.Reduce lib size.
+
+V1.3.8.31
+1.change getFWVerion API
+
+V1.3.8.30
+1.change upgrade API
+
+V1.3.8.29
+1.change the restartcamera API implementation
+2.add setFramePixelFormat API
+
+V1.3.8.27
+1.change StartUpdateFirmWare api
+
+V1.3.8.26
+1.add updating firmware and restart
+
+V1.3.8.25
+1.fix bugs
+
+V1.3.8.24
+1.fix bugs
+
+V1.3.8.23
+1.fix bugs and support Hot Swap
+
+V1.3.8.22
+1.Add v4l2 video node support
+
+V1.3.8.21
+1.Add SDK pressure test and Improve stability
+2.Add PicoZenseTestTool version 1.0.6
+
+V1.3.8.6
+1. Change RGB Frame format from RGBA to RGB
+2. Add interfaces of getting SN, FWVersion,HWVersion,SDKVersion,DeviceName
+3. Add workMode swicth: FaceMode/CodeMode/StandyMode

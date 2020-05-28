@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="glview_W">360px</dimen>
+    <dimen name="glview_H">480px</dimen>
+</resources>

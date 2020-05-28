@@ -1,0 +1,2 @@
+include ':dcam305', ':dcam710'
+rootProject.name='Sample'
