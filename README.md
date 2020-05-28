@@ -1,4 +1,4 @@
-# VZense_SDK_Android
+# Vzense_SDK_Android
 
 ## Vzense TOF camera software develop kit for android system
 
